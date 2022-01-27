@@ -29,7 +29,10 @@ class transactions:
         self.value = value
         self.note = note
         self.timestamp = datetime.datetime.now()
-
+        
+    def print_transaction():
+        pass
+    
     def add_money():
         pass
 
